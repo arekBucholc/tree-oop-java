@@ -24,7 +24,4 @@ public class ConiferousTree extends Tree {
 		return numberOfNeedles;
 	}
 	
-	public void setNumberOfNeedles(int numberOfNeedles) {
-		this.numberOfNeedles = numberOfNeedles;
-	}
 }
