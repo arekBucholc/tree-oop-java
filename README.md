@@ -9,3 +9,6 @@ This project demonstrates a simple object-oriented model of trees, both deciduou
 - **`ConiferousTree` class**: Represents a coniferous (needle) tree with methods to simulate growth of needles.
 - **Enum `LeafType`**: Defines the two types of foliage: broadleaf for deciduous trees and needles for coniferous trees.
 - Uses **JUnit 5** for unit testing.
+
+
+### Created by Arkadiusz Bucholc, 2024
